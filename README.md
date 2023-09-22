@@ -22,4 +22,4 @@ Antes de começar, certifique-se de ter o seguinte instalado em seu sistema:
 2. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-username/seu-projeto-rust.git
+   git clone https://github.com/pedroborba05/list_s3_objects_rust.git
